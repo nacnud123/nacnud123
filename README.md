@@ -75,13 +75,6 @@ More projects, write-ups, and games are on my [portfolio →](https://duncanarms
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nacnud123&show_icons=true&hide_border=true&theme=tokyonight" alt="Duncan's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacnud123&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165" />
-</p>
-
 <p align="center">
   <a href="https://duncanarmstrong.dev"><b>Check out my resume and portfolio</b></a>
 </p>
